@@ -1,2 +1,2 @@
-# oskar-zone
+# Oskar Zone
  Portfolio Website 2020
